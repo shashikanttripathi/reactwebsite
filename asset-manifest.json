@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reactwebite/static/css/main.ef69b694.chunk.css",
-    "main.js": "/reactwebite/static/js/main.d472f7f7.chunk.js",
-    "main.js.map": "/reactwebite/static/js/main.d472f7f7.chunk.js.map",
-    "runtime-main.js": "/reactwebite/static/js/runtime-main.c4fdd3ee.js",
-    "runtime-main.js.map": "/reactwebite/static/js/runtime-main.c4fdd3ee.js.map",
-    "static/js/2.ac285fea.chunk.js": "/reactwebite/static/js/2.ac285fea.chunk.js",
-    "static/js/2.ac285fea.chunk.js.map": "/reactwebite/static/js/2.ac285fea.chunk.js.map",
-    "index.html": "/reactwebite/index.html",
-    "precache-manifest.72729c182e27e18c382e756e20b1997b.js": "/reactwebite/precache-manifest.72729c182e27e18c382e756e20b1997b.js",
-    "service-worker.js": "/reactwebite/service-worker.js",
-    "static/css/main.ef69b694.chunk.css.map": "/reactwebite/static/css/main.ef69b694.chunk.css.map",
-    "static/js/2.ac285fea.chunk.js.LICENSE.txt": "/reactwebite/static/js/2.ac285fea.chunk.js.LICENSE.txt",
-    "static/media/Contact.css": "/reactwebite/static/media/hand.0da9d6fa.jpg",
-    "static/media/Home.css": "/reactwebite/static/media/trans.838e52d4.jpg"
+    "main.css": "/reactwebsite/static/css/main.13482c24.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.d472f7f7.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.d472f7f7.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.f271aeaf.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.f271aeaf.js.map",
+    "static/js/2.ac285fea.chunk.js": "/reactwebsite/static/js/2.ac285fea.chunk.js",
+    "static/js/2.ac285fea.chunk.js.map": "/reactwebsite/static/js/2.ac285fea.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "precache-manifest.944a557d228606d4f7e35c239ed5740e.js": "/reactwebsite/precache-manifest.944a557d228606d4f7e35c239ed5740e.js",
+    "service-worker.js": "/reactwebsite/service-worker.js",
+    "static/css/main.13482c24.chunk.css.map": "/reactwebsite/static/css/main.13482c24.chunk.css.map",
+    "static/js/2.ac285fea.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.ac285fea.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/reactwebsite/static/media/hand.0da9d6fa.jpg",
+    "static/media/Home.css": "/reactwebsite/static/media/trans.838e52d4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4fdd3ee.js",
+    "static/js/runtime-main.f271aeaf.js",
     "static/js/2.ac285fea.chunk.js",
-    "static/css/main.ef69b694.chunk.css",
+    "static/css/main.13482c24.chunk.css",
     "static/js/main.d472f7f7.chunk.js"
   ]
 }
